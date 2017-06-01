@@ -2,7 +2,9 @@
 """
 Created on Mon May 22 17:24:52 2017
 
-@author: subramanian-p
+Code to find the longest substring without repeating characters in a string
+
+@author: Praveen S
 """
 
 def lengthOfLongestSubstring(s):
